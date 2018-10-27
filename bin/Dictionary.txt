@@ -1,0 +1,6 @@
+motorbike	xe máy
+find	tìm kiếm
+cat	con mèo
+﻿house	nhà
+conversation	bảo vệ
+combine	so sánh
